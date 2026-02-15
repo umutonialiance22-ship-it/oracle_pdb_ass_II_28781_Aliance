@@ -12,4 +12,14 @@ i dropped it per instructed then i took screenshots then i accessed the OEM dash
 too much error, unfamiliar codes, too much internet, complexities of coding especially creating the pdb such as the files locations and all ... it was alot 
 --Integrity statement
 but it was also a great experience since we need to push out of the confront zone sooo... we appreciate the whole challenges
+## ✅ Final Checklist
+
+- [✅] Correct PDB names used  
+- [✅] User created inside the PDB  
+- [✅] Temporary PDB created and deleted  
+- [✅] OEM dashboard screenshot included  
+- [✅] GitHub repository is PUBLIC  
+- [✅] README is clear and professional  
+- [✅] Deadline respected  
+
 
